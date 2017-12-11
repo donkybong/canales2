@@ -1,0 +1,314 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<Canales Micelaneos>>>>>>>></name>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png</thumbnail>
+    <fanart>https://cdn.suwalls.com/wallpapers/digital-art/chile-flag-with-paint-drops-51998-1920x1080.jpg</fanart>
+        <items>
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Canales Micelaneos [/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+ 
+ 
+ 
+ 
+ 
+
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] "FRANCE",Fashion TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png</thumbnail>
+                        <link>http://stream-07.dc3.dailymotion.com/49/dm/3/x3m6nld/live-1.m3u8</link>
+                        </item>
+ 
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] "RUSSIA",ID Fashion (English) TV</title>
+                        <fanart></fanart>
+                        <thumbnail>https://yt3.ggpht.com/-u2TYQLBkvZY/AAAAAAAAAAI/AAAAAAAAAAA/JI4QO9JE1kA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+                        <link>http://95.67.8.22/hls/idfashion/index.m3u8</link>
+                        </item>
+ 
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] "RUSSIA",World Fashion</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.parsatv.com/index_files/channels/worldfashion.jpg</thumbnail>
+                        <link>http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] "SOUTH AFRICA",Fashion One</title>
+                        <fanart></fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg></thumbnail>
+                        <link>http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] "ITALY",Class TV Moda</title>
+                        <fanart></fanart>
+                        <thumbnail>https://operators.monaco-telecom.mc/images/part/tv/Class-TV-Moda_o.jpg</thumbnail>
+                        <link>http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] "USA",Beach TV - 30A</title>
+                        <fanart></fanart>
+                        <thumbnail>https://i.imgur.com/YajfXJ1.png</thumbnail>
+                        <link>http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ""USA",Beach TV - Panama City</title>
+                        <fanart></fanart>
+                        <thumbnail>https://i.imgur.com/YajfXJ1.png</thumbnail>
+                        <link>http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] USA",Beach TV - Pawleys Island</title>
+                        <fanart></fanart>
+                        <thumbnail>https://i.imgur.com/YajfXJ1.png</thumbnail>
+                        <link>http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8</link>
+                        </item>
+
+                         <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CGTN en Español </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://live.cgtn.com/cctv-e.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Carina TV </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal U </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Trendy Channel  </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Life Design </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Sun Channel </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] +HR=E </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8|X-Forwarded-For=219.88.222.94</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TVNZ 1 </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8|X-Forwarded-For=219.88.222.94</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NASA ISS </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NASA Media </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NASA Public </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8</link>
+                        </item>
+
+
+                         <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Miami TV </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BNTV Bosnia </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Bravo  </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/bravo_live_https/master.m3u8|X-Forwarded-For=219.88.222.94</link>
+                        </item>
+                        
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TVNZ Duke </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/duke/playlist.m3u8|X-Forwarded-For=101.100.88.89</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TVNZ 2 </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/master.m3u8|X-Forwarded-For=219.88.222.94&User-Agent=iPhone</link>
+                        </item>  
+
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Earth TV </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Munchen TV </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Baden TV </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Trailer TV Kids </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Trailer TV </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8</link>
+                        </item>
+
+
+                                                <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Hola TV </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Latin Angels </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Show Business </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master.m3u8</link>
+                        </item>
+
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TVI (Portugal) </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://www.iptvsaga.com/play/tv3/0021.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Mexico Travel Channel </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://live10ssl.cdnmedia.tv/mtchlive/mtch.smil/.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Telemundo </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://hls-ord-1a.vaughnsoft.net/nyc/live/live_tvhdenvivo14/chunklist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] VOA </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8</link>
+                        </item>
+
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Animal Planet </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Chaula TV (Latvia) </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://video.chaula.tv/hls/live/high/playlist_high.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Jasmin TV </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Latinos NC TV </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8</link>
+                        </item>
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] America TeVe </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8</link>
+                        </item>
+
+
+                        
