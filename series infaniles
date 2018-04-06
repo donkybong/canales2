@@ -7,14 +7,14 @@
 <thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>      
     </channels_info>
-<channels>
+</channels>
  
- 
+<channels> 
 <channel>
       <name>[COLOR rose][COLOR  purple]•  [/COLOR] Los Caballeros del Zodiaco [/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/Ab7ShR1p</externallink>
+   <externallink>https://raw.githubusercontent.com/donkybong/canales2/master/los%20caballeros%20del%20zodiaco</externallink>
 </channel>
   </channels>
