@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+    <channels_info>
+      <title>Series</title>
+      <description>Add on para Proto Box</description>
+<thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
+<fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>      
+    </channels_info>
+<channels>
+ 
+ 
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Los Caballeros del Zodiaco [/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/Ab7ShR1p</externallink>
+</channel>
+  </channels>
